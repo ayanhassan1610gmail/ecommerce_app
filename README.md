@@ -48,7 +48,6 @@ Built with **Provider** for state management and powered by the **Fakestore API*
 - **GitHub Repository**: [E-Commerce App Repo](https://github.com/MuhammadBilalAkbar/ecommerce_app)
 - **APK Download**: [Download APK](https://drive.google.com/drive/folders/1B0l811jXF51URSym0WOaZFFWP5B6faLo)
 - **YouTube Demo**: [Watch on YouTube](https://www.youtube.com/watch?v=KNpcXrg91qc&list=PLjsAnKhr2SrjwJ2ESv-M3H0il3PR_8Apr&index=2)
-- **LinkedIn Showcase**: [View Post](https://www.linkedin.com/posts/mohammad-bilal-akbar-981649189_e-commerce-app-apk-google-drive-activity-7357001228830064641-PzqJ)
 
 ---
 
@@ -65,10 +64,6 @@ Built with **Provider** for state management and powered by the **Fakestore API*
 ---
 
 ## 📷 Screenshots
+![notifications.png](notifications.png)
+
 ---
-
-## 📌 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/MuhammadBilalAkbar/ecommerce_app.git
